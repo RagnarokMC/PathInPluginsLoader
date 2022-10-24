@@ -1,7 +1,7 @@
 name: PathInPluginsLoader
 main: skh6075\PathInPluginsLoader\Loader
 author: skh6075
-version: 1.0.0
+version: 1.0.1
 api: 5.0.0
 website: https://github.com/skh6075
 
