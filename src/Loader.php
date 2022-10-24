@@ -10,7 +10,7 @@ use pocketmine\command\utils\InvalidCommandSyntaxException;
 use pocketmine\plugin\Plugin;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
-use Webmozart\PathUtil\Path;
+use Symfony\Component\Filesystem\Path;
 
 final class Loader extends PluginBase{
 	public function onCommand(CommandSender $sender, Command $command, string $label, array $args) : bool{
